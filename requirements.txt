@@ -1,0 +1,11 @@
+Flask
+lightgbm
+matplotlib
+mysql-connector-python
+numpy
+pandas
+scikit-learn
+seaborn
+SQLAlchemy
+streamlit
+xgboost
